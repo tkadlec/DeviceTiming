@@ -14,7 +14,7 @@
     "devicetiming": "./devicetiming"
   },
   "dependencies": {
-    "minimist": "~1.1.0",
+    "minimist": "~1.2.2",
     "js-string-escape": "~1.0.0"
   },
   "keywords": [
